@@ -19,4 +19,4 @@ The project takes a simple order management system — one that calculates order
 **Dependency Inversion Principle (DIP)** `OrderManager` depends on abstractions (interfaces), not concrete implementations. Dependencies are injected through the constructor, keeping the high-level logic decoupled from low-level details.
 
 ## UML Class Diagram
-![Image]()
+![Image](https://github.com/tricialabbao/SOLID-Principles/blob/main/SOLID%20Principles.png)
